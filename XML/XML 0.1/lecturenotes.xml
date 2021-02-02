@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./lecturenotes.xsl"?>
+
+<lectures>
+    <lecture>
+        <date>26-01-2021</date>
+        <teacher>Niels</teacher>
+        <student>Christoffer</student>
+        <subject>Dataintegration</subject>
+        <note>Helo XML og XSL er ligesom HTML og CSS</note>
+        <note>Alot of information</note>
+    </lecture>
+</lectures>

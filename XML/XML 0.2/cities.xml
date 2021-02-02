@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./cities.xsl"?>
+
+<cities>
+    <city>
+        <Sydney> AUS: New South Wales: 3276207</Sydney>
+        <Melbourne> AUS:  Victoria: 2865329</Melbourne>
+        <København> DK: København: 495699</København>
+        <Aarhus> DK: Aarhus: 284846</Aarhus>
+        <Aalborg> DK: Nordjylland: 161161</Aalborg>
+    </city>
+</cities>

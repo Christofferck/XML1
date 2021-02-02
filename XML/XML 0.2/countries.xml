@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./countries.xsl"?>
+
+<countries>
+    <country>
+        <DK>Danmark: Population: 5,804,298</DK>
+        <SE>Sweden: Population:  10,136,770</SE>
+        <NO>Norway: Population: 5,446,551</NO>
+        <RU>Russia: Population: 145,971,390</RU>
+        <RS>Serbia: Population: 8,716,747</RS>
+    </country>
+</countries>
